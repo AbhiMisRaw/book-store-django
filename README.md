@@ -1,1 +1,1 @@
-"# book-store-django" 
+# Book Store
